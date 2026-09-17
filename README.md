@@ -196,7 +196,7 @@ Le projet avait notamment pour objectifs de mettre en œuvre :
 
 ## 👥 Auteurs
 
-**DIHABI MAROUA & BACAR HOUSSAM**
+**D. MAROUA & BACAR HOUSSAM**
 
 **Date de création :** Mars 2021
 **Version :** V2
